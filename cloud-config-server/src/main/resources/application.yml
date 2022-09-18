@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/govindsolanketech/config-server
+          uri: https://github.com/govindusolanke/config-server
           clone-on-start: true
