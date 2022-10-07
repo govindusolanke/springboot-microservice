@@ -1,4 +1,4 @@
-package com.dailycodebuffer.cloud;
+package com.gscode.cloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
